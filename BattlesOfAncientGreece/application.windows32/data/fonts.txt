@@ -1,0 +1,5 @@
+data/fonts/marathon.vlw
+data/fonts/spqr.vlw
+data/fonts/cmuserif_roman16.vlw
+data/fonts/cmuserif_roman20.vlw
+data/fonts/cmuserif_roman48.vlw
