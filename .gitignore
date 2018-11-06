@@ -1,6 +1,5 @@
 *.class
 *.java
-*.jar
 *.war
 *.ear
 .DS_Store
